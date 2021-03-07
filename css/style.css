@@ -1,0 +1,282 @@
+.jornal {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background-color: green;
+    border-radius: 6px;
+    padding: 10px;
+    text-align: center;
+    position: static;
+    width: 1000px;
+    height: 300px;
+    padding: 40px;
+
+
+}   
+
+
+.jornal2{
+    text-align: center;
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}    
+  
+
+.anuncie {
+    padding: 2px;
+}
+
+.texto {
+    color:blue;
+
+}
+.texto2 {
+    text-align: center;
+    background-color: black;
+    color: chartreuse;
+    font-family: monospace;
+    border-radius: 30px;
+
+}
+.textop {
+    text-align: center;
+    background-color: black;
+    color: chartreuse;
+    font-family: monospace;
+    
+
+}
+.textodicas {
+    text-align: left;
+    background-color: black;
+    color: chartreuse;
+    font-family: monospace;
+    border-radius: 30px;
+    padding: 12px;
+}
+.bannerPaiefilho {
+    width: 200px;
+    height: 200px;
+    padding: 2px;
+    padding: 20px;;
+}
+.bannerTitle {
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    padding-right: 15px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+.conteudo {
+    margin: 13;
+    padding: 4px;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: left;
+
+}
+.bannerRio {
+    width: 200px;
+    height: 200px;
+    padding: 2px;
+    padding: 30px;
+}
+.Titlerio {
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    padding-right: 15px;
+    border-radius: 25px;
+    font-size: 15px;
+    font-family: sans-serif;
+} 
+.descriçao2 {
+    margin: 13;
+    padding: 4px;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: left;
+
+
+}
+.banner3 {
+    width: 200px;
+    height: 200px;
+    padding: 2px;
+    padding: 30px;
+
+}
+.title3 {
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    padding-right: 15px;
+    border-radius: 25px;
+    font-size: 15px;
+    font-family: sans-serif;
+} 
+.conteudo3 {
+    margin: 13;
+    padding: 4px;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: left;
+
+}
+.banner4 {
+    width: 200px;
+    height: 200px;
+    padding: 2px;
+    padding: 30px;
+
+
+}
+.title4 {
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    padding-right: 15px;
+    border-radius: 25px;
+    font-size: 15px;
+    font-family: sans-serif;
+
+}
+.conteudo4 {
+    margin: 13;
+    padding: 4px;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: left;
+}
+.bannergeral {
+    padding: 12px;
+    background: white; 
+    border radius: 20px;   
+}
+
+.dicas {
+    text-align: center;
+    background-color: black;
+    color: chartreuse;
+    border-radius: 20px;
+    font-size: 25px;
+    font-family: monospace;
+}
+.dicasconfinguraçao {
+    padding: 6px;
+}
+
+.dicasimg1 {
+    width: 500px;
+    height: 400px;
+    padding: 3px;
+
+
+}
+.dicasimg2 {
+    width: 500px;
+    height: 400px;
+    padding: 3px;
+}
+.textodicas1 {
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  color:black;
+  position: static;
+}
+.textodicas2 {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    position: static;
+    color:black;
+}
+.link1 {
+    background-color: gold;
+    color: white;
+    border-radius: 1px;
+    font-size: 19px;
+    text-align: center;
+}
+.link2 {
+    background-color: gold;
+    color: white;
+    border-radius: 1px;
+    font-size: 19px;
+    text-align: center;
+}
+.final {
+    margin: 13;
+    padding: 3px;
+    font-size: 30px;
+    font-family: monospace;
+    text-align: center;
+    background-color: black;
+    color:yellowgreen;
+    text-align: center;
+}
+.sobrenos {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding: 8px;
+    text-align: center;
+}
+.whats {
+    
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: green;
+    padding-top: 2px;
+    text-align: center;
+    margin-top: 13px;
+    border-radius: 40px;
+}
+.numero {
+    color: green;
+    font-family: unset;
+    font-size: 30px;
+    text-align: center;
+    padding: 3px;
+    margin-top: 13px;
+    border-radius: 40px;
+}
+.email {
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    background-color: green;
+    padding-top: 3px;
+    text-align: center;
+    margin-top: 13px;
+    border-radius: 40px;
+}
+.meuemail {
+    color: green;
+    font-family: unset;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 13px;
+    border-radius: 40px;
+}   
+.saopaulo {
+    color:white;
+    text-align: center;
+    background-color:yellowgreen;
+    border-radius: 1px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nomedosite {
+    color:white;
+    text-align: center;
+    background-color:yellowgreen;
+    border-radius: 1px;
+    font-size: 18px;
+    
+}
+.carosel1 {
+    width: 100;
+    height: 100;
+    padding: ;
+}
